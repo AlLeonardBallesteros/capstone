@@ -28,10 +28,13 @@ export const Header = () => {
           <NavLink to="/contacts">Contacts</NavLink>
         </li>
         <li>
-          <NavLink to="/how-to">How to</NavLink>
+          <NavLink to="/how-to">FAQ</NavLink>
         </li>
         <li>
           <NavLink to="/join-us">Join us</NavLink>
+        </li>
+        <li>
+          <NavLink to="/help-us">Help us</NavLink>
         </li>
       </ul>
     </nav>

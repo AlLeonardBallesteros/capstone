@@ -49,9 +49,11 @@ import './pagescss/JoinUs.css'
                              Sigin Up
                          </Components.GhostButton> 
                    </Components.RightOverlayPanel>
+                   
 
                </Components.Overlay>
            </Components.OverlayContainer>
+           
 
        </Components.Container>
        </div>

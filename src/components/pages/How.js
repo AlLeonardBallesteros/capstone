@@ -3,7 +3,7 @@ import React from 'react'
 function How() {
   return (
     <div>
-      how
+      answers sa question/process ng adoption chuchu
     </div>
   )
 }
